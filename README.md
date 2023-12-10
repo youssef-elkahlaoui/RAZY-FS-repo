@@ -5,4 +5,4 @@
   home
       (downloads,Desktop....)
   user
-`(ga3 commands li ghandiro aykono f l'bin ;) )
+> (ga3 commands li ghandiro aykono f l'bin ;) )
