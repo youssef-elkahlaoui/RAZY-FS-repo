@@ -1,4 +1,4 @@
-> mohim guys nsaawbo same directories as already mentioned in the Meeting
+ mohim guys nsaawbo same directories as already mentioned in the Meeting
  root
   bin
   etc
