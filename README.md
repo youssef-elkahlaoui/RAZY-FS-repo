@@ -5,4 +5,4 @@
 >   home
 >       (downloads,Desktop....)
 >   usr 
-(ga3 commands li ghandiro aykono f l'bin ;) )
+	`rgb(9, 105, 218)`(ga3 commands li ghandiro aykono f l'bin ;) )
